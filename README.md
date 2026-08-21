@@ -4,6 +4,10 @@ A macro-pad with 16 keys and a rotary encoder powered by Seeed XIAO RP2040
 I wanted something that was actually useful on my desk, but also something I could completely customize so i made this from the PCB and firmware to the case.
 
 ![CHAOX Macropad](Images/1.jpg)
+![CHAOX Macropad](Images/2.jpg)
+![schematics](Images/schematics%20.jpg)
+![PCB](Images/pcb.jpg)
+![case](Images/case.jpg)
 
 ## Things present in the chaox-pad
 
@@ -57,6 +61,16 @@ All of the case files are available in:
 You can open the FreeCAD file if you want to modify the design yourself.
 
 The STEP files are also included for anyone who wants to work with the case in another CAD program.
+
+## BOM
+
+- Seeed XIAO RP2040 -1
+- Through-hole 1N4148 Diodes -16
+- MX-Style switches -16
+- EC11 Rotary encoders -1
+- M3x16mm screws -4
+- M3x5mx4mm headset inserts -4
+- M2x3mm screw -1
 
 ## Why I made it
 
